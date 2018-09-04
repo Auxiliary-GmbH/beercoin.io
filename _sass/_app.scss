@@ -1,12 +1,6 @@
 
   @media screen and (max-width: 768px) {
-    #examples {
-      display: none;
-    }
-    #getstarted {
-      display: none;
-    }
-    #examplesnav {
+    .videowrapper {
       display: none;
     }
 }
@@ -19,4 +13,8 @@
 
 #approw {
   margin-bottom: 40px;
+}
+
+.exampleheader {
+  padding-top: 100px;
 }
