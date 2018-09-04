@@ -1,0 +1,1 @@
+https://auxiliary-gmbh.github.io/beercoin.io/
